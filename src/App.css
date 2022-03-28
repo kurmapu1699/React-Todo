@@ -1,0 +1,35 @@
+.App {
+  background-color: pink;
+  text-align: center;
+  height: 100vh;
+}
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: rgb(3, 2, 14);
+}
+.Body {
+  background-color: rgb(13, 15, 15);
+  padding: 20px;
+  box-shadow: 2px 1px 4px 2px dimgray;
+  border-radius: 5px;
+}
+.input-body {
+  display: flex;
+}
+.input-body input {
+  border-radius: 5px;
+  border: 1px solid black;
+  padding: 3px;
+  margin: 10px;
+}
+.input-body button {
+  padding: 5px;
+  margin: 10px;
+}
+h1 {
+  padding-bottom: 30px;
+}

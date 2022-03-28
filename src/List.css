@@ -1,0 +1,21 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+  border: 1px solid greenyellow;
+  padding: 5px;
+  background-color: rgb(116, 197, 235);
+  border-radius: 5px;
+}
+
+.item p {
+  margin: 0;
+}
+.item button {
+  background-color: red;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: none;
+}
